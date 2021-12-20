@@ -35,7 +35,7 @@ NDC ODF Application Tools
         
     7. 接下來請安裝Windows平台上的編譯工具，首先是JDK，要編譯不同平台的話，
         請同時安裝二個版本(32 bit和64 bit都要裝，JDK不會自動安裝二個平台)：
-        • 下載連結：http://www.oracle.com/technetwork/java/javase/downloads/index.html
+        • 下載連結：https://adoptopenjdk.net/
         
     8. 安裝Visual Studio 2019，
         請安裝Community版本，下載連結如下：
