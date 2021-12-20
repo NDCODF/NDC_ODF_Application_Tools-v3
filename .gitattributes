@@ -1,0 +1,6 @@
+*.cpp linguist-language=C++
+*.doc binary
+*.sdw binary
+*.svg binary
+*.jcs binary
+schema/*/* export-ignore
